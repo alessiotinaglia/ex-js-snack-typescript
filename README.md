@@ -1,1 +1,0 @@
-# ex-js-snack-typescript
